@@ -11,6 +11,16 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - **Fixed/Corrigido** para qualquer correção de bug.
 - **Security/Segurança** em caso de vulnerabilidades.
 
+## [Unreleased] - 2022-07-01
+
+### Added
+
+- Implementação da função capitalize
+
+### Changed
+
+- Alteração na função camelCase para usar o capitalize
+
 ## [1.0.0-beta1] - 2022-06-16
 
 ### Added
