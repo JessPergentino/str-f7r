@@ -16,10 +16,13 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Added
 
 - Implementação da função capitalize
+- Implementação da função lowerCase
+- Implementação da função isInvalid
 
 ### Changed
 
 - Alteração na função camelCase para usar o capitalize
+- Alteração nas funções camelCase e capitalize para usar o isInvalid
 
 ## [1.0.0-beta1] - 2022-06-16
 

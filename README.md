@@ -1,4 +1,4 @@
-![licence](https://img.shields.io/github/license/JessPergentino/str-f7r?style=for-the-badge) ![version](https://img.shields.io/github/package-json/v/JessPergentino/srt-f7r?style=for-the-badge)
+![licence](https://img.shields.io/github/license/JessPergentino/str-f7r?style=for-the-badge) ![version](https://img.shields.io/github/package-json/v/JessPergentino/str-f7r?style=for-the-badge)
 
 **:construction: Projeto em construção :construction:**
 
@@ -15,6 +15,7 @@ src
 │   index.js        # Classe princial da aplicação
 └───case            # Features da aplicação
 |___format
+|___util            # Funções utilitarias da aplicação
 test                # Testes das funções da aplicação
 ```
 
