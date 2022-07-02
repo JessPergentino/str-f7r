@@ -1,3 +1,5 @@
+import capitalize from './capitalize';
+
 const camelCase = (str: string): string => {
   if (str === '' || str === null || str === undefined) return '';
 
@@ -16,7 +18,7 @@ const camelCase = (str: string): string => {
   camelCaseString = splitString
     .map((value: string, index: number) => {
       if (index === 0) return value.toLowerCase();
-      return value.substring(0, 1).toUpperCase() + value.substring(1).toLowerCase();
+      return capitalize(value);
     })
     .join('');
 
