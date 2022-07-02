@@ -1,7 +1,8 @@
+import isInvalid from '../util/isInvalid';
 import capitalize from './capitalize';
 
 const camelCase = (str: string): string => {
-  if (str === '' || str === null || str === undefined) return '';
+  if (isInvalid(str)) return '';
 
   let splitString = [];
   let camelCaseString = '';
