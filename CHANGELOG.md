@@ -18,6 +18,7 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - Implementação da função capitalize
 - Implementação da função lowerCase
 - Implementação da função isInvalid
+- Implementação da função upperCase
 
 ### Changed
 
