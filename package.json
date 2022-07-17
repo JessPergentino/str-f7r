@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "A JavaScript String Formatter",
   "main": "index.ts",
-  "repository": "git://github.com/JessPergentino/str-f7r.git",
+  "repository": "https://github.com/JessPergentino/str-f7r.git",
   "scripts": {
     "test": "jest --watchAll --coverage",
     "lint": "eslint src/**",
@@ -15,9 +15,6 @@
   ],
   "author": "Jessica Pergentino",
   "license": "MIT",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.2",
     "@types/jest": "^28.1.1",
