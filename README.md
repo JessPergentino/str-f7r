@@ -1,7 +1,5 @@
 ![licence](https://img.shields.io/github/license/JessPergentino/str-f7r?style=for-the-badge) ![version](https://img.shields.io/github/package-json/v/JessPergentino/str-f7r?style=for-the-badge)
 
-**:construction: Projeto em construção :construction:**
-
 # str-f7r
 
 Um Formatador de Strings em JavaScript
