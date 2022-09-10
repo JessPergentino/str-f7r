@@ -12,6 +12,7 @@ Este projeto está organizado da seguinte maneira:
 src
 │   index.js        # Classe princial da aplicação
 └───case            # Features da aplicação
+|___count
 |___format
 |___util            # Funções utilitarias da aplicação
 test                # Testes das funções da aplicação
