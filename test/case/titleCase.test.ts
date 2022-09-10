@@ -21,7 +21,7 @@ describe('titleCase', function () {
     expect(StringFormatter.titleCase('/src/case/titlecase')).toBe('/Src/case/titlecase');
     expect(StringFormatter.titleCase('****')).toBe('****');
     expect(StringFormatter.titleCase('-----')).toBe('-----');
-    expect(StringFormatter.titleCase('     ')).toBe('     ');
+    expect(StringFormatter.titleCase('     ')).toBe('');
     expect(StringFormatter.titleCase('\n\n\n\n   ***\t\t')).toBe('\n\n\n\n   ***\t\t');
     expect(StringFormatter.titleCase('')).toBe('');
   });

@@ -8,6 +8,6 @@ describe('capitalize', function () {
     expect(StringFormatter.capitalize('')).toBe('');
     expect(StringFormatter.capitalize('*banana')).toBe('*banana');
     expect(StringFormatter.capitalize('500')).toBe('500');
-    expect(StringFormatter.capitalize('  ')).toBe('  ');
+    expect(StringFormatter.capitalize('  ')).toBe('');
   });
 });
