@@ -3,9 +3,11 @@ import capitalize from './case/capitalize';
 import lowerCase from './case/lowerCase';
 import upperCase from './case/upperCase';
 import titleCase from './case/titleCase';
-import formatPhone from './format/formatPhone';
 
 import count from './count/count';
+
+import formatPhone from './format/formatPhone';
+import formatCurrency from './format/formatCurrency';
 
 const StringFormatter = {
   camelCase,
@@ -15,6 +17,7 @@ const StringFormatter = {
   upperCase,
   titleCase,
   formatPhone,
+  formatCurrency,
 };
 
 export default StringFormatter;

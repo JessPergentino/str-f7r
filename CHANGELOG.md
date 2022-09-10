@@ -11,12 +11,14 @@ O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - **Fixed/Corrigido** para qualquer correção de bug.
 - **Security/Segurança** em caso de vulnerabilidades.
 
-## [Unreleased] - 
+## [1.2.1] - 2022-09-10
 
 ### Added
 
 - Implementação da função count
 - Implementação da função formatPhone
+- Implementação da função formatCurrency
+- Ajuste na função isInvalid para receber number e detectar espaços
 
 ## [1.1.0] - 2022-07-17
 
