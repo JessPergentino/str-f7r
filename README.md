@@ -1,4 +1,4 @@
-![licence](https://img.shields.io/github/license/JessPergentino/str-f7r?style=for-the-badge) ![version](https://img.shields.io/github/package-json/v/jesspergentino/str-f7r?style=for-the-badge)![build](https://img.shields.io/github/workflow/status/jesspergentino/str-f7r/str-f7r-workflow)
+![licence](https://img.shields.io/github/license/JessPergentino/str-f7r?style=for-the-badge) ![version](https://img.shields.io/github/package-json/v/jesspergentino/str-f7r?style=for-the-badge)![build](https://img.shields.io/github/workflow/status/jesspergentino/str-f7r/str-f7r-workflow?style=for-the-badge)
 
 # str-f7r
 
